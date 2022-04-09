@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmus Sakib.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-nazmus-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="sm-nazmus-sakib" /> </p>
 
