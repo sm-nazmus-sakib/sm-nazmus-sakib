@@ -6,9 +6,8 @@
 <p align="left"> <a href="https://twitter.com/smnazmussakib13" target="blank"><img src="https://img.shields.io/twitter/follow/smnazmussakib13?logo=twitter&style=for-the-badge" alt="smnazmussakib13" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript.**
-
+- 👀 I’m interested in MERN stack developer.
 - 👯 I’m looking to collaborate on **GitHub.**
-
 - 📫 How to reach me **nazmussakibnwu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
