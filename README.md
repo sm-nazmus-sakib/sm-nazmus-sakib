@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm NAZMUS SAKIB </h1>
-- 👋 Hi, I’m @sm-nazmus-sakib
+- 👋 Hi, I’m @sm-nazmus-sakib <P style="text-align:left;> - 👋 Hi, I’m @sm-nazmus-sakib </P>
 - 👀 I’m interested in MERN stack developer.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on GitHub.
