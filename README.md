@@ -1,4 +1,4 @@
-<img height="270" width="100%" src="https://mdnaveenkumar.web.app/Assets/Images/createmern.png">
+<img height="270" width="85%" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/121575926/original/c69513a1385ec793159a35c4871f34f61009f458/make-web-app-using-mern-stack.png">
 <h1 align="center">Hi 👋, I'm Nazmus Sakib.</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
