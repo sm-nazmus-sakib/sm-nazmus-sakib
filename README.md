@@ -1,3 +1,4 @@
+<img height="300" width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg">
 <h1 align="center">Hi 👋, I'm Nazmus Sakib.</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
